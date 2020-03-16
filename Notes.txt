@@ -1,0 +1,21 @@
+Binomial distribution:
+n - no of trails an event is performed
+X - No of trails success event occured
+Coin tossing we can have a tail for binomial distribtuion because the data here is discrete.
+Expected value = n * p(of success)
+Higher the success probability, our tail will be left skewed. Vice Versa for lower probability i.e. tail will be right skewed
+
+Negetive binomial:
+Practical example: Throwing paper out of a hole
+
+
+Why doller symbol in excel?
+Binomial and negetive binomial distribtuion - Revise
+t distribution pt
+
+Telecoms question ans:
+10c6 * 0.8*6 * 0.2*4
+14c6 * 0.45*6* 0.55*8
+
+Tips:
+Excel Formula: Combin for combinations
