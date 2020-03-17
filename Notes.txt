@@ -1,21 +1,18 @@
-Binomial distribution:
-n - no of trails an event is performed
-X - No of trails success event occured
-Coin tossing we can have a tail for binomial distribtuion because the data here is discrete.
-Expected value = n * p(of success)
-Higher the success probability, our tail will be left skewed. Vice Versa for lower probability i.e. tail will be right skewed
+Types of probability distribution:
+Binomail
+Negative binomial distribution
 
-Negetive binomial:
-Practical example: Throwing paper out of a hole
+Regression: Y = f(x)
+For logistic regression, we say the output in probability
+Logistic is one among binary class classification technique
+This particular logistic regression curve is called sigmoid curve
+If you have a very large difference between multiple R2 and adjusted R2, it says that added variables are not contributing much
+Both variables and data rows can help in increasing R2. Whereas adjusted R2 just variables.
+Factoring: We use 'factor' to constraint that particular values to 0 and 1.
+Probability of logistic regression that we get is around what we choose as 1.
+Sigmoid curve cannot be drawn for multi logistic regression. Can be drawn to simple linear regression.
 
 
-Why doller symbol in excel?
-Binomial and negetive binomial distribtuion - Revise
-t distribution pt
 
-Telecoms question ans:
-10c6 * 0.8*6 * 0.2*4
-14c6 * 0.45*6* 0.55*8
-
-Tips:
-Excel Formula: Combin for combinations
+To check:
+odds ratio - google this for details on why probability equation
