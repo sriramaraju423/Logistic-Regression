@@ -1,18 +1,11 @@
-Types of probability distribution:
-Binomail
-Negative binomial distribution
+Null deviance: Quantam of error if you only take B0
+Residual deviance: Quantam of error if you consider B0+B1x
+Difference b/w these two should be high for model to be good.
+Confusion matrix:
+The word FALSE is not always about being zero. It's about our condition being FALSE
 
-Regression: Y = f(x)
-For logistic regression, we say the output in probability
-Logistic is one among binary class classification technique
-This particular logistic regression curve is called sigmoid curve
-If you have a very large difference between multiple R2 and adjusted R2, it says that added variables are not contributing much
-Both variables and data rows can help in increasing R2. Whereas adjusted R2 just variables.
-Factoring: We use 'factor' to constraint that particular values to 0 and 1.
-Probability of logistic regression that we get is around what we choose as 1.
-Sigmoid curve cannot be drawn for multi logistic regression. Can be drawn to simple linear regression.
+Logistic regression explination: Maximum likely hood explination
 
+GLM - Genralized linera models
 
-
-To check:
-odds ratio - google this for details on why probability equation
+Take a look at likelihood concept?
