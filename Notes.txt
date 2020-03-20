@@ -1,12 +1,8 @@
-Missing value doesn't mean the value is zero. Might be data entry error or any that sort of error.
-Degrees of freedom: n-1
-Addition of 5 variables causes decrease of residual deviance by some much and as well as degress of freedom by 5.
-In confusion matrix we always go with analogy of 'always prediction'. And in False Negative, False positive remember as follows False = our prediction is false, Negetive or positive = prediction corresponding value
-Eutopian model is perfect model
-Specificity(For negetive) TN/(TN+FP) and Sensitivity(For positive) TP/(TP+FN)
-Choosing cutoff optimun values is most important thing.
-
-
-
-TODO:
-Log and exp
+False negative: Negative prediction which is incorrect
+Accuracy should be greater than majority class or else there is something wrong with the model.
+AUC - Area under the curve
+ROC - Receiver operating Characteristic
+High AOC - better model
+RRR - Retain remove replace
+We cannot quantify count based on boxplot 
+Boxplot is not a measure for normality as well.
